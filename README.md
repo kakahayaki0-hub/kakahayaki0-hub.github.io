@@ -4,8 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>WealthWise — Personal Finance & Investment Insights</title>
   <meta name="description" content="Expert insights on personal finance, investing, real estate, and building lasting wealth in the modern economy."/>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7290780336438439"
+  <meta name="google-adsense-account" content="ca-pub-7290780336438439">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7290780336438439"
      crossorigin="anonymous"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
