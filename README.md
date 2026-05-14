@@ -5,10 +5,8 @@
   <title>WealthWise — Personal Finance & Investment Insights</title>
   <meta name="description" content="Expert insights on personal finance, investing, real estate, and building lasting wealth in the modern economy."/>
 
-  <!-- ✅ ADSENSE SCRIPT (ganti dengan kode asli dari akun AdSense kamu) -->
-  <!--
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
-  -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7290780336438439"
+     crossorigin="anonymous"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
